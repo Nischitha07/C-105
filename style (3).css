@@ -1,0 +1,32 @@
+.main_div {
+background-color: deeppink;
+}
+#img_recog
+{
+    width : 100%;
+    height : 50px;
+    border: 2px, black , solid ;
+    border-radius: 10px;
+    background-color: white;
+    font-size: 30px ;
+}
+.modules
+{
+    color: gold;
+    font-size:15px;
+}
+
+#capture_img
+{
+    border: 2px, black , solid ;
+    border-radius: 10px;
+    height: 35px;
+    width : 150px;
+}
+#idendtify_btn
+{
+    border: 2px, black , solid ;
+    border-radius: 10px;
+    height: 35px;
+    width : 150px;
+}
